@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * 音乐播放器主页面
+ * 分享，学习主页面
  * */
 
 public class MainActivity extends AppCompatActivity {
